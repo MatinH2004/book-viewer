@@ -1,6 +1,6 @@
 # Book Viewer App
 
-The Book Viewer App is a simple web application created with Sinatra, designed to allow users to view and explore a collection of books. This lightweight app offers an easy and intuitive way to access and read books within a web browser. It can be a useful tool for showcasing a digital library or sharing specific literary works online.
+The Book Viewer App is a simple web application created with Sinatra, designed to allow users to view and explore The Adventures of Sherlock Holmes. This lightweight app offers an easy and intuitive way to access and read the book within a web browser.
 
 ## Features
 
