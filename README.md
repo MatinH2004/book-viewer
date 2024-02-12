@@ -2,8 +2,6 @@
 
 The Book Viewer App is a simple web application created with Sinatra, designed to allow users to view and explore The Adventures of Sherlock Holmes. This lightweight app offers an easy and intuitive way to access and read the book within a web browser.
 
-Check it out [here](https://book-viewer-project-dfb7ddd32be3.herokuapp.com)
-
 ## Features
 
 - Read The Adventures of Sherlock Holmes
